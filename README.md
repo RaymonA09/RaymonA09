@@ -43,7 +43,7 @@ Here are some of my notable projects:
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [ralph.aurelio@gmail.com](mailto:ralph.aurelio@gmail.com)
+- **Email**: [ralphaurelio1@gmail.com](mailto:ralphaurelio1@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ralph-raymon-aurelio](#)
 - **GitHub**: [github.com/ralphaurelio](#)
 
